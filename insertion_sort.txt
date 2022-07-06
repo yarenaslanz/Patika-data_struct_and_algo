@@ -12,9 +12,9 @@
 
 2.Big-O notation
 
-best case log(n)
-average case log(n^2)
-worst case log(n^2)
+best case O(n)
+average case O(n^2)
+worst case O(n^2)
 
 
 3.Time Complexity
